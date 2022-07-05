@@ -1,6 +1,6 @@
 # startTypescript
 
-Configuração básica de Typescript, com Eslint, Prettier, EditorConfig e Dotenv.
+Configuração básica de Typescript, com Jest, Supertest, Eslint, Prettier, EditorConfig e Dotenv.
 
 ### Tecnologia Usada!
 
@@ -11,6 +11,7 @@ Configuração básica de Typescript, com Eslint, Prettier, EditorConfig e Doten
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![EditorConfig](https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
 ### Configuração Básica
 
@@ -20,6 +21,8 @@ Então, este projeto tem a finalidade de diminuir este tempo, lhe oferecendo a c
 ### Setup
 
 > - TypeScript
+> - Jest
+> - Supertest
 > - Eslint
 > - Prittier
 > - EditorConfig
