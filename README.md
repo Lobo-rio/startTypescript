@@ -32,7 +32,7 @@ Então, este projeto tem a finalidade de diminuir este tempo, lhe oferecendo a c
 
 > - git clone https://github.com/Lobo-rio/startTypescript.git
 > - cd startTypescript
-> - yarn i
+> - yarn
 
 ### GitHub Analytics
 
